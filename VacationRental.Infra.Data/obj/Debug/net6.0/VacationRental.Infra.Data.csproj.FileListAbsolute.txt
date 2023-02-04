@@ -1,0 +1,15 @@
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\bin\Debug\net6.0\VacationRental.Infra.Data.deps.json
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\bin\Debug\net6.0\VacationRental.Infra.Data.dll
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\bin\Debug\net6.0\VacationRental.Infra.Data.pdb
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\bin\Debug\net6.0\VacationRental.Domain.dll
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\bin\Debug\net6.0\VacationRental.Domain.pdb
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\VacationRental.Infra.Data.csproj.AssemblyReference.cache
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\VacationRental.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\VacationRental.Infra.Data.AssemblyInfoInputs.cache
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\VacationRental.Infra.Data.AssemblyInfo.cs
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\VacationRental.Infra.Data.csproj.CoreCompileInputs.cache
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\VacationRental.Infra.Data.csproj.CopyComplete
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\VacationRental.Infra.Data.dll
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\refint\VacationRental.Infra.Data.dll
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\VacationRental.Infra.Data.pdb
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Infra.Data\obj\Debug\net6.0\ref\VacationRental.Infra.Data.dll

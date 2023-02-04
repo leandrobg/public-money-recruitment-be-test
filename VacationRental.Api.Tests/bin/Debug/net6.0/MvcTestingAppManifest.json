@@ -1,0 +1,6 @@
+{
+  "VacationRental.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\_Projetos\\MyTest\\VacationRental.Api\\VacationRental.Api",
+  "VacationRental.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\_Projetos\\MyTest\\VacationRental.Api\\VacationRental.Domain",
+  "VacationRental.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\_Projetos\\MyTest\\VacationRental.Api\\VacationRental.Infra.Data",
+  "VacationRental.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\_Projetos\\MyTest\\VacationRental.Api\\VacationRental.Service"
+}

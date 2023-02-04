@@ -1,0 +1,12 @@
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\bin\Debug\net6.0\VacationRental.Domain.deps.json
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\bin\Debug\net6.0\VacationRental.Domain.dll
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\bin\Debug\net6.0\VacationRental.Domain.pdb
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\VacationRental.Domain.csproj.AssemblyReference.cache
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\VacationRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\VacationRental.Domain.AssemblyInfoInputs.cache
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\VacationRental.Domain.AssemblyInfo.cs
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\VacationRental.Domain.csproj.CoreCompileInputs.cache
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\VacationRental.Domain.dll
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\refint\VacationRental.Domain.dll
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\VacationRental.Domain.pdb
+C:\_Projetos\MyTest\VacationRental.Api\VacationRental.Domain\obj\Debug\net6.0\ref\VacationRental.Domain.dll
